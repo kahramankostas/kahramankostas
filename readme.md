@@ -2,7 +2,7 @@
 ###### *PhD Candidate*
 
 
-I am a second year PhD student at [Heriot-Watt University](https://www.hw.ac.uk/), Edinburgh Campus. I graduated from [Marmara University](https://www.marmara.edu.tr/en) with a BSc in Computer Education and Instructional Technology in 2009. I took my MSc degree from [University of Essex](https://www.essex.ac.uk/)  in Computer Networks and Security (2018).
+I am a third year PhD student at [Heriot-Watt University](https://www.hw.ac.uk/), Edinburgh Campus. I graduated from [Marmara University](https://www.marmara.edu.tr/en) with a BSc in Computer Education and Instructional Technology in 2009. I took my MSc degree from [University of Essex](https://www.essex.ac.uk/)  in Computer Networks and Security (2018).
 
 My master thesis was about detection of network attacks using machine learning methods. The [thesis](https://www.researchgate.net/publication/328512658_Anomaly_Detection_in_Networks_Using_Machine_Learning) and the [code](https://github.com/kahramankostas/Anomaly-Detection-in-Networks-Using-Machine-Learning) are available. My research interests are:
 
