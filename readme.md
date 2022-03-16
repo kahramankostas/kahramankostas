@@ -21,7 +21,12 @@ You can find my detailed CV in [here](https://github.com/kahramankostas/cv/blob/
 
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kahramankostas&show_icons=true)
+
+
 ![Kahraman's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kahramankostas)
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kahramankostas)](https://github.com/ryo-ma/github-profile-trophy)
 
 
