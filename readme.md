@@ -17,16 +17,3 @@ You can find my detailed CV in [here](https://github.com/kahramankostas/cv/blob/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kkostas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kahramankostas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@kkostas) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kahramankostas) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kahramankostas.github.io/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:kahramankostas@gmail.com)
-
-### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=kahramankostas&show_icons=true)
-
-
-![Kahraman's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kahramankostas)
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kahramankostas)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
