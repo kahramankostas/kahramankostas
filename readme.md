@@ -10,7 +10,7 @@ My master thesis was about detection of network attacks using machine learning m
 +  Machine learning
 +  Network security
 
-You can find my detailed CV in [here](https://github.com/kahramankostas/cv/blob/master/Kahramankostas_CV.pdf).
+You can find my detailed CV in [here](https://kahramankostas.github.io/uploads/demo_resume.pdf).
 
 
 ### You can also find me on
