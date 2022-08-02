@@ -9,6 +9,7 @@ My master thesis was about detection of network attacks using machine learning m
 +  Internet of Things security
 +  Machine learning
 +  Network security
++  Indoor Positioning and Navigation 
 
 You can find my detailed CV in [here](https://kahramankostas.github.io/uploads/demo_resume.pdf).
 
