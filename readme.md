@@ -3,7 +3,7 @@
 
 I am a PhD student at School of Mathematical and Computer Sciences, [Heriot-Watt University](https://www.hw.ac.uk/), Edinburgh Campus (Supervised by [Mike Just](https://researchportal.hw.ac.uk/en/persons/mike-just) and [Michael Lones](http://www.macs.hw.ac.uk/~ml355/)). My research interests are cyber security, computer networks, internet of things, indoor positioning, and machine learning. My current focus is IoT Security, especially device identification and attack detection on IoT networks. However, I am very interested in the practical use of machine learning techniques on different data types.
 
-I worked at Huawei Edinburgh R&D centre as a Research Intern during 6 months in 2022 (Supervised by [Francisco Zampella](https://scholar.google.es/citations?user=IUyobs4AAAAJ&hl=en) and [Firas Alsehly](https://uk.linkedin.com/in/firas-alsehly-8169987b)). In this process, I developed various solutions to indoor positioning problems by focusing on the analysis of geospatial data with machine learning.
+I worked at Huawei Edinburgh R&D centre as a Research Intern during 6 months in 2022. In this process, I developed various solutions to indoor positioning problems by focusing on the analysis of geospatial data with machine learning.
 
 
 
