@@ -16,7 +16,7 @@ My personal interests include hiking, taking photos and Turkish literature, etym
 
 
 
-You can find my detailed CV in [here](https://kahramankostas.github.io/uploads/demo_resume.pdf).
+You can find my detailed CV in [here](https://kahramankostas.github.io/assets/kahraman_kostas.pdf).
 
 
 ### You can also find me on
